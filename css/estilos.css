@@ -13,10 +13,10 @@ body{
 
 }
 
-#himno{
-
-    background: blue;
-    color: #fff;
-    font-size: 3em;
+#cabecera {
+    background: lightblue;
+    color: blue;
+    border-color: aqua;
     text-align: center;
+    font-size: 5em;
 }
