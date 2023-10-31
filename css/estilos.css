@@ -12,3 +12,11 @@ body{
     border-radius: 8px;
 
 }
+
+#cabecera {
+    background: lightblue;
+    color: blue;
+    border-color: aqua;
+    text-align: center;
+    font-size: 5em;
+}
