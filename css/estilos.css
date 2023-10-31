@@ -12,3 +12,11 @@ body{
     border-radius: 8px;
 
 }
+
+#himno{
+
+    background: blue;
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+}
