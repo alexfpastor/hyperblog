@@ -34,7 +34,7 @@ body{
     color: #fff;
     background: blue;
     text-align: center;
-    font-size: 5em;
+    font-size: 2em;
 }
 
 #cabecera2021{
@@ -42,7 +42,7 @@ body{
     color: #fff;
     background: blue;
     text-align: center;
-    font-size: 4em;
+    font-size: 2em;
 }
 
 #cabecera2022{
@@ -50,5 +50,15 @@ body{
     color: blue;
     background: #fff;
     text-align: center;
-    font-size: 4em;
+    font-size: 2em;
+}
+
+footer{
+
+    color: aqua;
+    background: green;
+    text-align: center;
+    font-size:2em;
+
+
 }
